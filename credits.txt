@@ -1,0 +1,6 @@
+Credits:
+
+• TerraFirmaCraft: The main mod and many textures that I improved. https://www.curseforge.com/minecraft/mc-mods/terrafirmacraft
+• TFC TNG Faithful32 - Inspiration and some textures. https://www.curseforge.com/minecraft/texture-packs/tfc-tng-faithful
+• Vexxel - This resource pack of mine was made based on Vexxed Visuals. https://www.curseforge.com/minecraft/texture-packs/terrafirmacraft-vexxed-visuals
+• Faithful - Inspiration, some textures and textures from their resource pack that I used for the base of these textures. https://www.curseforge.com/minecraft/texture-packs/faithful-32x

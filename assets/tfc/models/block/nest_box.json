@@ -1,0 +1,68 @@
+{
+	"credit": "Made by @vexxel with Blockbench - https://github.com/vexxel",
+	"parent": "minecraft:block/block",
+	"textures": {
+		"1": "tfc:block/devices/nest_box/inside",
+		"particle": "tfc:block/devices/nest_box/nest",
+		"texture": "tfc:block/devices/nest_box/nest"
+	},
+	"elements": [
+		{
+			"from": [2, 0, 2],
+			"to": [14, 2, 14],
+			"rotation": {"angle": 0, "axis": "y", "origin": [2, 0, 2]},
+			"faces": {
+				"north": {"uv": [0, 2, 12, 4], "texture": "#texture"},
+				"east": {"uv": [0, 2, 12, 4], "texture": "#texture"},
+				"south": {"uv": [0, 2, 12, 4], "texture": "#texture"},
+				"west": {"uv": [0, 2, 12, 4], "texture": "#texture"},
+				"up": {"uv": [2, 2, 14, 14], "texture": "#1"},
+				"down": {"uv": [0, 4, 12, 16], "texture": "#texture"}
+			}
+		},
+		{
+			"from": [13, 2, 3],
+			"to": [14, 4, 14],
+			"rotation": {"angle": 0, "axis": "y", "origin": [2, 2, 2]},
+			"faces": {
+				"east": {"uv": [0, 0, 11, 2], "texture": "#texture"},
+				"south": {"uv": [11, 0, 12, 2], "texture": "#texture"},
+				"west": {"uv": [1, 0, 12, 2], "texture": "#texture"},
+				"up": {"uv": [13, 3, 14, 14], "texture": "#1"}
+			}
+		},
+		{
+			"from": [2, 2, 2],
+			"to": [3, 4, 13],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-9, 2, 2]},
+			"faces": {
+				"north": {"uv": [11, 0, 12, 2], "texture": "#texture"},
+				"east": {"uv": [1, 0, 12, 2], "texture": "#texture"},
+				"west": {"uv": [0, 0, 11, 2], "texture": "#texture"},
+				"up": {"uv": [2, 2, 3, 13], "texture": "#1"}
+			}
+		},
+		{
+			"from": [3, 2, 2],
+			"to": [14, 4, 3],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-9, 2, 2]},
+			"faces": {
+				"north": {"uv": [0, 0, 11, 2], "texture": "#texture"},
+				"east": {"uv": [11, 0, 12, 2], "texture": "#texture"},
+				"south": {"uv": [1, 0, 12, 2], "texture": "#texture"},
+				"up": {"uv": [3, 2, 14, 3], "texture": "#1"}
+			}
+		},
+		{
+			"from": [2, 2, 13],
+			"to": [13, 4, 14],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-9, 2, 13]},
+			"faces": {
+				"north": {"uv": [1, 0, 12, 2], "texture": "#texture"},
+				"south": {"uv": [0, 0, 11, 2], "texture": "#texture"},
+				"west": {"uv": [11, 0, 12, 2], "texture": "#texture"},
+				"up": {"uv": [2, 13, 13, 14], "texture": "#1"}
+			}
+		}
+	]
+}

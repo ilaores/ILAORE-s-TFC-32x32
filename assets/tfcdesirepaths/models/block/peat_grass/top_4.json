@@ -1,0 +1,9 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "parent": "tfcdesirepaths:block/grass_top",
+  "textures": {
+    "texture": "tfc:block/peat",
+    "overlay": "tfcdesirepaths:block/grass_4",
+    "particle": "tfcdesirepaths:block/grass_4"
+  }
+}

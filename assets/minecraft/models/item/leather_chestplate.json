@@ -1,0 +1,1 @@
+{"loader":"tfc:trim","parent":"forge:item/default","textures":{"armor":"minecraft:item/leather_chestplate","trim":"tfc:item/chestplate_trim","overlay":"minecraft:item/leather_chestplate_overlay"}}

@@ -1,0 +1,1 @@
+{"loader":"tfc:trim","parent":"forge:item/default","textures":{"armor":"minecraft:item/leather_leggings","trim":"tfc:item/greaves_trim","overlay":"minecraft:item/leather_leggings_overlay"}}

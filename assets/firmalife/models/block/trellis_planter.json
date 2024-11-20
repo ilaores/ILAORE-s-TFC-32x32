@@ -1,0 +1,57 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "block/block",
+	"textures": {
+		"5": "firmalife:block/devices/planter/trellis"
+	},
+	"elements": [
+		{
+			"from": [2, 0, 12],
+			"to": [4, 16, 14],
+			"faces": {
+				"north": {"uv": [12, 0, 14, 16], "texture": "#5"},
+				"east": {"uv": [2, 0, 4, 16], "texture": "#5"},
+				"south": {"uv": [12, 0, 14, 16], "texture": "#5"},
+				"west": {"uv": [2, 0, 4, 16], "texture": "#5"},
+				"up": {"uv": [0, 0, 2, 2], "texture": "#5"},
+				"down": {"uv": [0, 14, 2, 16], "texture": "#5"}
+			}
+		},
+		{
+			"from": [2, 0, 2],
+			"to": [4, 16, 4],
+			"faces": {
+				"north": {"uv": [2, 0, 4, 16], "texture": "#5"},
+				"east": {"uv": [12, 0, 14, 16], "texture": "#5"},
+				"south": {"uv": [2, 0, 4, 16], "texture": "#5"},
+				"west": {"uv": [12, 0, 14, 16], "texture": "#5"},
+				"up": {"uv": [2, 2, 0, 0], "texture": "#5"},
+				"down": {"uv": [0, 14, 2, 16], "texture": "#5"}
+			}
+		},
+		{
+			"from": [12, 0, 2],
+			"to": [14, 16, 4],
+			"faces": {
+				"north": {"uv": [12, 0, 14, 16], "texture": "#5"},
+				"east": {"uv": [2, 0, 4, 16], "texture": "#5"},
+				"south": {"uv": [12, 0, 14, 16], "texture": "#5"},
+				"west": {"uv": [2, 0, 4, 16], "texture": "#5"},
+				"up": {"uv": [0, 2, 2, 0], "texture": "#5"},
+				"down": {"uv": [0, 14, 2, 16], "texture": "#5"}
+			}
+		},
+		{
+			"from": [12, 0, 12],
+			"to": [14, 16, 14],
+			"faces": {
+				"north": {"uv": [2, 0, 4, 16], "texture": "#5"},
+				"east": {"uv": [12, 0, 14, 16], "texture": "#5"},
+				"south": {"uv": [2, 0, 4, 16], "texture": "#5"},
+				"west": {"uv": [12, 0, 14, 16], "texture": "#5"},
+				"up": {"uv": [0, 0, 2, 2], "texture": "#5"},
+				"down": {"uv": [0, 14, 2, 16], "texture": "#5"}
+			}
+		}
+	]
+}
